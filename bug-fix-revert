@@ -1,0 +1,22 @@
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"url":"https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-Git
+                    Hub/pulls/3","id":2801810862,"node_id":"PR_kwDOPpkpv86nAD2u","html_url":"https://github.com/ibm-dev
+                    el...
+RawContent        : HTTP/1.1 200 OK
+                    Vary: Accept,Accept-Encoding, Accept, X-Requested-With
+                    X-GitHub-Media-Type: github.v3; format=json
+                    x-github-api-version-selected: 2022-11-28
+                    Access-Control-Expose-Headers: ETag, Li...
+Forms             : {}
+Headers           : {[Vary, Accept,Accept-Encoding, Accept, X-Requested-With], [X-GitHub-Media-Type, github.v3;
+                    format=json], [x-github-api-version-selected, 2022-11-28], [Access-Control-Expose-Headers, ETag,
+                    Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining,
+                    X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes,
+                    X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id,
+                    Deprecation, Sunset]...}
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 13681
